@@ -77,5 +77,6 @@ WorkManager 提供了一種簡化的方案。
 
 [範例](https://android.jlelse.eu/exploring-jetpack-the-power-of-chains-in-the-workmanager-apis-30509ca4b2c)
 
-## 參考連結
+## 連結
 > http://developers.googleblog.cn/2018/05/android-jetpack.html
+> https://www.youtube.com/watch?v=vOJCrbr144o
