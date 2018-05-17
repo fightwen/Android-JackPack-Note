@@ -64,5 +64,10 @@ Slices 是以搜尋的方式顯示，讓使用者不須搜尋後開網頁找，�
 ![](http://bp.googleblog.cn/-GKJGCirclDI/WvD1qlznfAI/AAAAAAAAFUo/zaTtY_hbSegdNssiTKqt0RvmarnRgUZrQCLcBGAs/s1600/pasted%2Bimage%2B0%2B%25282%2529image2.png)
 [Video](https://www.youtube.com/watch?v=8GCXtCjtg40)
 
+## WorkManager
+執行某個任務可能因為外在因素可能被中斷，以前的解決方案有 Job scheduler (os5以上)、Firebase Job Dispatcher(os5以下)、Alarms Manager
+WorkManager 提供了一種簡化的方案。
+[範例](https://android.jlelse.eu/exploring-jetpack-the-power-of-chains-in-the-workmanager-apis-30509ca4b2c)
+
 ## 參考連結
 > http://developers.googleblog.cn/2018/05/android-jetpack.html
