@@ -36,8 +36,13 @@ view.viewTreeObserver.addOnPreDrawListener(
 ```kotlin
 view.doOnPreDraw { actionToBeTriggered() }
 ```
+## Slices
+Slices 是以搜尋的方式顯示，讓使用者不須搜尋後開網頁找，而是搜尋時直接多出結果的選單。
+[文件](https://developer.android.com/guide/slices/)
+![](http://bp.googleblog.cn/-CtLmyY1io2Y/WvD5YMU_H2I/AAAAAAAAFVE/JBEtgrYvviU4rXWhs2niHzCYhbZfH66rQCLcBGAs/s1600/Screen%2BShot%2B2018-05-07%2Bat%2B6.10.13%2BPM.png)
 
-
+## Paging
+輕鬆加載和呈現大型數據集，同時在您的 RecyclerView 中進行快速、無限滾動。
 
 ## 參考連結
 > http://developers.googleblog.cn/2018/05/android-jetpack.html
