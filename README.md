@@ -67,6 +67,9 @@ Slices 是以搜尋的方式顯示，讓使用者不須搜尋後開網頁找，�
 ## WorkManager
 執行某個任務可能因為外在因素可能被中斷，以前的解決方案有 Job scheduler (os5以上)、Firebase Job Dispatcher(os5以下)、Alarms Manager
 WorkManager 提供了一種簡化的方案。
+
+[文件](https://developer.android.com/topic/libraries/architecture/workmanager)
+
 [範例](https://android.jlelse.eu/exploring-jetpack-the-power-of-chains-in-the-workmanager-apis-30509ca4b2c)
 
 ## 參考連結
